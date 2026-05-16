@@ -1,4 +1,4 @@
-﻿# Heritage Shasane
+﻿# Heritage(Namma) Shasane
 
 Heritage Shasane is a specialized Android application designed to document, preserve, and explore historical stone inscriptions (Shasane). The app bridges the gap between ancient history and modern technology by providing interactive maps, AI-driven insights, and educational tools.
 
