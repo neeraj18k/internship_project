@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@android:drawable/ic_menu_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/mapFragment"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="Map" />
+    <item
+        android:id="@+id/trailFragment"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:title="Trail" />
+    <item
+        android:id="@+id/quizFragment"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="Quiz" />
+</menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="parchment">#F5F5DC</color>
+    <color name="stone">#A9A9A9</color>
+    <color name="deep_brown">#5D4037</color>
+    <color name="gold">#FFD700</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
